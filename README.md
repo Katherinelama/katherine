@@ -25,7 +25,9 @@ Estoy segura de que puedo aportar un valor significativo a tu equipo.
 Aquí puedes encontrarme:
 
 LinkedIn: https://www.linkedin.com/in/katherine-lama/
+
 Correo electrónico: katherinelama130515@gmail.com
+
 Sitio Web personal: https://katherinelama.github.io/miprimerapagina/
 
 Juntos podemos convertir ideas en soluciones innovadoras y experiencias memorables.
