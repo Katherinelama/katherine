@@ -31,3 +31,15 @@ Correo electrónico: katherinelama130515@gmail.com
 Sitio Web personal: https://katherinelama.github.io/miprimerapagina/
 
 Juntos podemos convertir ideas en soluciones innovadoras y experiencias memorables.
+
+## Tecnologias
+- Back-End:
+    - Java: Dominio del lenguaje Java para el desarrollo del lado del servidor, con experiencia en la creación de APIs RESTful, aplicaciones web escalables y manejo de bases de datos.
+    - Python: Habilidad en Python para el desarrollo de back-end, incluyendo frameworks como Django y Flask, análisis de datos y scripting.
+    - C#: Conocimientos en C# para el desarrollo de aplicaciones web y de escritorio con ASP.NET.
+- Front-End: 
+    - HTML, CSS y JavaScript: Sólido conocimiento de HTML, CSS y JavaScript para el desarrollo de interfaces web limpias, accesibles y con una experiencia de usuario óptima.
+
+- Base de datos:
+    - SQL: Dominio del lenguaje SQL para la gestión y consulta de bases de datos relacionales, incluyendo MySQL, PostgreSQL y SQL Server.
+    - NoSQL: Conocimientos en bases de datos NoSQL como MongoDB y Firebase para el almacenamiento de datos no estructurados.
