@@ -47,3 +47,8 @@ Juntos podemos convertir ideas en soluciones innovadoras y experiencias memorabl
 ## Habilidades
 - Resolución de problemas: Como desarrollador, me apasiona resolver problemas complejos. Estoy constantemente explorando nuevas tecnologías y buscando soluciones innovadoras para los desafíos que se me presentan. 
 - Aprendizaje continuo: Me gusta mucho seguir cursos online sobre temas relacionados a la tecnología.
+
+## Aficciones
+- Me gusta ir al gimnasio.
+- Me gusta escuchar música.
+- Aprender cosas nuevas.
