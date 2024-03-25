@@ -52,3 +52,6 @@ Juntos podemos convertir ideas en soluciones innovadoras y experiencias memorabl
 - Me gusta ir al gimnasio.
 - Me gusta escuchar música.
 - Aprender cosas nuevas.
+
+## Idiomas
+- Inglés a nivel intermedio.
