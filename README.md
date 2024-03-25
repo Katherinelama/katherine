@@ -31,3 +31,6 @@ Correo electrónico: katherinelama130515@gmail.com
 Sitio Web personal: https://katherinelama.github.io/miprimerapagina/
 
 Juntos podemos convertir ideas en soluciones innovadoras y experiencias memorables.
+
+## Idiomas
+- Inglés a nivel intermedio.
