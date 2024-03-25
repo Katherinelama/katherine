@@ -29,3 +29,7 @@ Correo electrónico: katherinelama130515@gmail.com
 Sitio Web personal: https://katherinelama.github.io/miprimerapagina/
 
 Juntos podemos convertir ideas en soluciones innovadoras y experiencias memorables.
+
+## Habilidades
+- Resolución de problemas: Como desarrollador, me apasiona resolver problemas complejos. Estoy constantemente explorando nuevas tecnologías y buscando soluciones innovadoras para los desafíos que se me presentan. 
+- Aprendizaje continuo: Me gusta mucho seguir cursos online sobre temas relacionados a la tecnología.
