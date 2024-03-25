@@ -12,3 +12,20 @@ Java, C# y Python: lenguajes de programación versátiles para diferentes aplica
 SQL: fundamental para la gestión y análisis de datos.
 
 Estoy comprometida con el aprendizaje continuo y estoy dispuesta a adquirir las habilidades y conocimientos necesarios para convertirme en una analista de datos exitosa.
+
+## Contáctame
+A medida que continúo mi viaje en el desarrollo Full Stack, siempre estoy buscando proyectos y oportunidades colaborativos donde pueda contribuir con mis habilidades y crecer tanto personal como profesionalmente. 
+
+Estoy segura de que puedo aportar un valor significativo a tu equipo.
+
+¿Te interesa saber más sobre mi experiencia y cómo puedo ayudarte a alcanzar tus objetivos?
+
+¡No dudes en contactarme!
+
+Aquí puedes encontrarme:
+
+LinkedIn: https://www.linkedin.com/in/katherine-lama/
+Correo electrónico: katherinelama130515@gmail.com
+Sitio Web personal: https://katherinelama.github.io/miprimerapagina/
+
+Juntos podemos convertir ideas en soluciones innovadoras y experiencias memorables.
