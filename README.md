@@ -43,3 +43,7 @@ Juntos podemos convertir ideas en soluciones innovadoras y experiencias memorabl
 - Base de datos:
     - SQL: Dominio del lenguaje SQL para la gestión y consulta de bases de datos relacionales, incluyendo MySQL, PostgreSQL y SQL Server.
     - NoSQL: Conocimientos en bases de datos NoSQL como MongoDB y Firebase para el almacenamiento de datos no estructurados.
+
+## Habilidades
+- Resolución de problemas: Como desarrollador, me apasiona resolver problemas complejos. Estoy constantemente explorando nuevas tecnologías y buscando soluciones innovadoras para los desafíos que se me presentan. 
+- Aprendizaje continuo: Me gusta mucho seguir cursos online sobre temas relacionados a la tecnología.
